@@ -1,3 +1,5 @@
+** YOU CANNOT RUN THIS SCRIPT WHILE THE USER HAVING THE ISSUE IS LOGGED IN. THE FILE WILL BE LOCKED. YOU NEED TO BE LOGGED IN AS A DIFFERENT USER FOR THIS TO WORK**
+
 
 We have had multiple clients over the last two weeks submit and continue to submit tickets regarding this issue.
 
